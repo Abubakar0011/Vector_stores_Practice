@@ -1,0 +1,1 @@
+# Vector Database Practice Using FAISS and CHROMADB
